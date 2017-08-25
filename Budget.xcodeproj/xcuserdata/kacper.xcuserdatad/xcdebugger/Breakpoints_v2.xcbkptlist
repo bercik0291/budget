@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Budget/ViewController.swift"
+            timestampString = "525350094.240186"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Budget.ViewController.tableView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITableView&gt;"
+                  moduleName = "Budget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kacper/Desktop/Budget/Budget/ViewController.swift"
+                  timestampString = "525350125.279511"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Budget.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Budget.ViewController"
+                  moduleName = "Budget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kacper/Desktop/Budget/Budget/ViewController.swift"
+                  timestampString = "525350125.283364"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Budget.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Budget.ViewController&gt;"
+                  moduleName = "Budget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kacper/Desktop/Budget/Budget/ViewController.swift"
+                  timestampString = "525350125.286764"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "290">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
